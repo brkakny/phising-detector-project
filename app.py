@@ -104,7 +104,7 @@ with st.sidebar:
             </div>
         """, unsafe_allow_html=True)
     
-    st.divider()
+st.divider()
 st.markdown("### 🔗 Kaynak Kod")
 st.markdown('<a href="https://github.com/brkakny/phishing-detector-project" class="github-btn">GitHub Repository</a>', unsafe_allow_html=True)
     
